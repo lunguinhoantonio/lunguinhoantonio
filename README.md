@@ -2,8 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=025cda&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Antônio+Lunguinho;Welcome+to+my+Github+:%29)
 
-![lunguinhoantonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunguinhoantonio&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunguinhoantonio&layout=compact&theme=transparent)
+<div align="center">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunguinhoantonio&theme=blueberry"/>
+</div>
 
 ## Technologies and Tools
 <p align="center">
