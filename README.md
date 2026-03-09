@@ -5,10 +5,10 @@
 ![lunguinhoantonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunguinhoantonio&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunguinhoantonio&layout=compact&theme=transparent)
 
-## Technologies
+## Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,c,html,css,js&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,git,vscode,idea,linux,mint,windows,mysql,postgresql,postman,c,html,css,js&perline=9" />
   </a>
 </p>
 
