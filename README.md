@@ -8,7 +8,7 @@
 ## Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,git,vscode,idea,linux,mint,windows,mysql,postgresql,postman,c,html,css,js&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,git,vscode,vscodium,idea,linux,mint,windows,mysql,postgresql,postman,github,c,html,css,js&perline=9" />
   </a>
 </p>
 
