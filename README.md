@@ -3,8 +3,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=025cda&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Antônio+Lunguinho;Welcome+to+my+Github+:%29)
 
 <div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunguinhoantonio&theme=blueberry"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunguinhoantonio&theme=transparent"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunguinhoantonio&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunguinhoantonio&layout=compact&langs_count=16&theme=transparent"/>
 </div>
+
+##
 
 ## Technologies and Tools
 <p align="center">
